@@ -1,5 +1,5 @@
-# CSC631_hw2
- Homework2 part a-c
+# CSC631_hw3
+
 
 Gurjot Singh
 
