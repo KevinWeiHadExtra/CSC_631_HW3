@@ -1,6 +1,1 @@
-# CSC631_hw3
-
-
-Gurjot Singh
-
-ID# 916628172
+# CSC_631_HW3
